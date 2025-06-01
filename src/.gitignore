@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sql
+hr_bot_db_test.sql  
+.idea/
+.vscode/
+.DS_Store
